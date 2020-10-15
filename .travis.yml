@@ -1,4 +1,7 @@
 language: python
+arch:
+   - AMD64
+   - ARM64
 sudo: false
 cache: pip
 dist: trusty
